@@ -59,38 +59,23 @@
 - **BadNets: Identifying Vulnerabilities in the Machine Learning Supply Chain (Gu et al., 2017)**  
   [arXiv](https://arxiv.org/abs/1708.06733)
 - **Trojaning Attack on Neural Networks (Liu et al., 2018)**  
-  [arXiv](https://arxiv.org/abs/1802.05502)
+  [arXiv](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-5_Liu_paper.pdf)
 - **Hidden Trigger Backdoor Attack (Saha et al., 2020)**  
-  [arXiv](https://arxiv.org/abs/2007.04697)
-
-### Blog & Slides
-- **Backdoor Attacks on Deep Neural Networks**  
-  A detailed article explaining various backdoor attack techniques and defenses.  
-  [Towards Data Science Article](https://towardsdatascience.com/backdoor-attacks-on-deep-neural-networks-f3ea736b51d9)
-- **Backdoor Attacks on Deep Learning Systems (Slide Deck)**  
-  A slide deck presentation on backdoor attacks in neural networks.  
-  [SlideShare Presentation](https://www.slideshare.net/harshajain07/backdoor-attacks-on-deep-learning-systems)
+  [arXiv](https://arxiv.org/abs/1910.00033)
 
 ### ToolBox & Code Repositories
 - **TrojanZoo**  
   A collection of backdoor attack implementations and experiments.  
-  [GitHub Repository](https://github.com/AI-secure/TrojanZoo)
+  [GitHub Repository](https://github.com/ain-soph/trojanzoo)
 - **BackdoorBench**  
   A benchmark for evaluating backdoor attacks and defenses.  
-  [GitHub Repository](https://github.com/eth-sri/backdoorbench)
-- **Adversarial Attacks PyTorch**  
-  Contains various adversarial attack implementations, including backdoor methods.  
-  [GitHub Repository](https://github.com/Harry24k/adversarial-attacks-pytorch)
+  [GitHub Repository](https://github.com/SCLBD/BackdoorBench)
 
-### Datasets & Competitions
-- **TrojAI Dataset & Competition**  
-  An initiative by NIST for evaluating trojan/backdoor attacks.  
-  [NIST TrojAI](https://www.nist.gov/itl/iad/mig/trojai)
 
 ### Awesome Repos
 - **Awesome ML Security**  
-  A curated list of resources on machine learning security, including backdoor attacks.  
-  [GitHub Repository](https://github.com/AI-secure/awesome-ml-security)
+  A curated list of resources on backdoor attacks.
+  [GitHub Repository](https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning)
 
 
 
