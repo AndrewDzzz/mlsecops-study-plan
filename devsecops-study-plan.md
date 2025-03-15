@@ -1,6 +1,6 @@
 # DevSecOps Study Plan (Optional)
 
-Before embarking on your MLSecOps studies, it is essential to understand DevSecOps, as it lays the foundation for entering this field. Additionally, comparing the similarities and differences between these approaches can further enhance your understanding.
+To futher study MLSecOps, it is essential to understand DevSecOps!
 
 There are some DevSecOps resources for you to breifly understand DevSecOps:
 
