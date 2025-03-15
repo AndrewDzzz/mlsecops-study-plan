@@ -46,29 +46,14 @@
 ### Key Papers
 - **Extracting Training Data from Large Language Models**  
   Carlini, N., et al. (2021).  
-  [arXiv:2104.08773](https://arxiv.org/abs/2104.08773)
-- *(Additional relevant papers can be found by searching for "LLM data extraction" or "training data memorization in LLMs" on arXiv.)*
+  [arXiv:2012.07805](https://arxiv.org/abs/2012.07805)
 
-### Blog & Slides
-- **Understanding Data Memorization and Prompt Leakage in LLMs**  
-  An article exploring how models memorize training data and the risks of prompt leakage.  
-  [Towards Data Science](https://towardsdatascience.com/search?q=prompt+leakage)
-- **Prompt Leakage Techniques & Defenses (Slide Deck)**  
-  A slide deck presentation from an AI security workshop on prompt leakage.  
-  [SlideShare Search Results](https://www.slideshare.net/search/slideshow?searchfrom=header&q=prompt+leakage)
-
-### ToolBox
-- **TensorFlow Privacy**  
-  A library for training machine learning models with differential privacy.  
-  [GitHub - TensorFlow Privacy](https://github.com/tensorflow/privacy)
-- **PyTorch Opacus**  
-  A library to train PyTorch models with differential privacy.  
-  [GitHub - Opacus](https://github.com/pytorch/opacus)
-- **LLM Extraction Experiment Repositories**  
-  *(Search for relevant GitHub repositories on LLM data extraction and privacy testing.)*
+### Tools
+- **leaked prompts of GPTs**
+  leaked prompts of GPTs
+  [GPTs]https://github.com/linexjlin/GPTs
 
 ### Awesome Repos
 - **Awesome AI Security**  
-  A curated list of resources on security and privacy in AI, including topics related to LLM leakage.  
-  [GitHub - Awesome AI Security](https://github.com/AI-secure/awesome-ai-security)
-- *(Alternatively, search for specific "Awesome LLM Security" lists on GitHub.)*
+  Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+  [GitHub - Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
