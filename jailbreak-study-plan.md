@@ -50,29 +50,15 @@
 ## Study Resources for Jailbreaks
 
 ### Key Papers
-- **Adversarial Attacks on Large Language Models**  
-  [arXiv Search Results](https://arxiv.org/search/?query=jailbreak+language+model&searchtype=all)
-
-### Blog & Slides
-- **Understanding Jailbreaks in AI Systems**  
-  A detailed article discussing various jailbreak techniques and their implications.  
-  [Towards Data Science – LLM Jailbreaks](https://towardsdatascience.com/search?q=llm+jailbreak)
-- **Jailbreak Techniques & Defenses (Slide Deck)**  
-  Slide presentations from AI security workshops on the topic of LLM jailbreaks.  
-  [SlideShare Search: LLM Jailbreak](https://www.slideshare.net/search/slideshow?searchfrom=header&q=llm+jailbreak)
+- **Jailbreaking chatgpt via prompt engineering: An empirical study**  
+  [arXiv Search Results](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DcFodKsAAAAJ&citation_for_view=DcFodKsAAAAJ:zYLM7Y9cAGgC)
 
 ### ToolBox & Code Repositories
-- **ChatGPT Jailbreaks Repository**  
+- **ChatGPT_DAN**  
   A GitHub repository showcasing various jailbreak examples for ChatGPT.  
-  [GitHub - ChatGPT Jailbreaks](https://github.com/dair-ai/ChatGPT-jailbreaks)
-- **LLM Safety Toolkit**  
-  A curated collection of tools and resources for assessing LLM vulnerabilities.  
-  [GitHub - Awesome AI Security](https://github.com/AI-secure/awesome-ai-security)
+  [GitHub - ChatGPT Jailbreaks](https://github.com/0xk1h0/ChatGPT_DAN)
 
 ### Awesome Repos
-- **Awesome Prompt Engineering**  
-  A curated list of resources focused on prompt design and secure practices.  
-  [GitHub - Awesome Prompt Engineering](https://github.com/promptslab/awesome-prompt-engineering)
-- **Awesome AI Security**  
-  A comprehensive repository covering various facets of AI security, including jailbreaks.  
-  [GitHub - Awesome AI Security](https://github.com/AI-secure/awesome-ai-security)
+- **ChatGPT_DAN**  
+  Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
+  [GitHub - Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs)
