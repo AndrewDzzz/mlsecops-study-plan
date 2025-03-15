@@ -1,5 +1,7 @@
 # mlsecops-study-plan
 
+[<img src="topic.webp" alt="Awesome-LM-SSP" width="800" height="auto" class="center">](.)
+
 A Practical Study Plan to become a successful MLSecOps engineer!
 
 
