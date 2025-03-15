@@ -27,3 +27,29 @@
      - Model Architecture Improvements
      - Evaluation Metrics
 
+## Study Resources
+
+### Video
+* https://www.youtube.com/watch?v=C8jJ4H6BL1c
+* https://www.youtube.com/watch?v=pR2et-guixM
+* https://www.youtube.com/watch?v=7P5zYUX5R9s
+
+### Blog & Slide
+* https://www.dremio.com/wiki/adversarial-attacks-in-ai/
+* https://engineering.purdue.edu/ChanGroup/ECE595/files/chapter3.pdf
+
+### ToolBox
+
+* https://github.com/BorealisAI/advertorch
+* https://github.com/bethgelab/foolbox
+* https://github.com/tensorflow/cleverhans
+* https://github.com/ppwwyyxx/Adversarial-Face-Attack
+* https://github.com/IBM/adversarial-robustness-toolbox
+* https://github.com/Trusted-AI/adversarial-robustness-toolbox
+* https://github.com/Harry24k/adversarial-attacks-pytorch
+
+### Awesome Repos
+
+* https://github.com/Davion-Liu/Awesome-Robustness-in-Information-Retrieval
+* http://github.com/wangjksjtu/awesome-AML
+* https://github.com/Yanxing-Shi/Awesome-CV-Adversarial-Attack-List
