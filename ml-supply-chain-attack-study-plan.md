@@ -43,34 +43,3 @@
 
 ## Study Resources for ML Supply Chain Attacks
 
-### Key Papers
-- **BadNets: Identifying Vulnerabilities in the Machine Learning Supply Chain (Gu et al., 2017)**  
-  [arXiv](https://arxiv.org/abs/1708.06733)
-- **Trojaning Attack on Neural Networks (Liu et al., 2018)**  
-  [arXiv](https://arxiv.org/abs/1802.05502)
-- **Hidden Trigger Backdoor Attack (Saha et al., 2020)**  
-  [arXiv](https://arxiv.org/abs/2007.04697)
-
-### Blog & Slides
-- **Securing the Machine Learning Supply Chain**  
-  An article discussing the vulnerabilities and defenses in the ML supply chain.  
-  [IBM Security Blog](https://www.ibm.com/blogs/security/ai-model-security-supply-chain/)
-- **ML Supply Chain Attacks Explained (Slide Deck)**  
-  Explore various aspects of ML supply chain attacks via this SlideShare search result.  
-  [SlideShare Search Results](https://www.slideshare.net/search/slideshow?searchfrom=header&q=ml+supply+chain)
-
-### ToolBox
-- **DVC (Data Version Control)**  
-  A tool for managing data, models, and experiments to ensure traceability in ML projects.  
-  [DVC Website](https://dvc.org/)
-- **Sigstore**  
-  A suite of tools for signing, verifying, and protecting software artifacts, including ML models.  
-  [Sigstore Website](https://sigstore.dev/)
-- **Model Card Toolkit**  
-  A toolkit for creating model cards to document model details, intended use, and security considerations.  
-  [GitHub - Model Card Toolkit](https://github.com/google/model-card-toolkit)
-
-### Awesome Repos
-- **Awesome ML Security**  
-  A curated list of resources on machine learning security, covering various attack vectors including supply chain attacks.  
-  [GitHub - Awesome ML Security](https://github.com/AI-secure/awesome-ml-security)
