@@ -26,7 +26,7 @@ A Practical Study Plan to become a successful MLSecOps engineer!
 9. [ML Supply Chain Attack Study Plan](ml-supply-chain-attack-study-plan.md)
 10. [ML APP Attack Study Plan](ml-app-attack-study-plan.md)
 
-### **Advanced(Study at anytime)**
+### **Advanced(Study at Anytime)**
 11. [DevSecOps Study Plan](devsecops-study-plan.md)
 
 ## **__Coming Soon:__**
