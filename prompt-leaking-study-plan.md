@@ -50,12 +50,12 @@
 
 ### Tools
 - **leaked prompts of GPTs**  
-  leaked prompts of GPTs.
-  [GPTs](https://github.com/linexjlin/GPTs)
+- leaked prompts of GPTs.
+- [GPTs](https://github.com/linexjlin/GPTs)
 
 
 ### Awesome Repos
 - **Awesome AI Security**  
-  Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-  [GitHub - Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
+- Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+- [GitHub - Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
 
