@@ -1,3 +1,5 @@
+# Backdoor Attack Study Plan
+
 1. [ ] Core Concepts (1-2 Weeks)
     - Backdoor attack definition & objectives
     - Trigger design: Explicit (fixed patterns) vs. Implicit (natural features, frequency domain perturbations)
