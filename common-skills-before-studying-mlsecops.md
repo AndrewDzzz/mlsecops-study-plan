@@ -105,7 +105,7 @@ Optional:
 
 Additionally, you need some [basic security knowledge](https://github.com/jassics/security-study-plan/blob/main/common-skills-study-plan.md)!
 
-## Some Awesome Repos for you to study this part:
+## Some Awesome Repos:
 
 - [ ] [ml-study-plan](https://github.com/patrickloeber/ml-study-plan)
 - [ ] [llm-course](https://github.com/mlabonne/llm-course)
