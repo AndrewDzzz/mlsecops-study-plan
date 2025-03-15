@@ -4,7 +4,7 @@ A Practical Study Plan to become a successful MLSecOps engineer!
 
 It will cover but not limited to:
 
-**Have done:**
+**__Have done:__**
 
 ---**Basic Skills**---
 1. [Common Skills before Studying MLSecOps](common-skills-before-studying-mlsecops.md)
@@ -37,5 +37,6 @@ It will cover but not limited to:
 16. [Property Inference Attack Study Plan](property-inference-attack-study-plan.md)
 17. [Unlearning Study Plan](unlearning-study-plan.md)
 
-**Coming Soon:**
+**__Coming Soon:__**
+
 ---**AI Governance Security**---
