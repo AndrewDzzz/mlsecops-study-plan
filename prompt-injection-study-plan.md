@@ -40,8 +40,8 @@
 
 ### ToolBox
 - **Chatgpt_System_Prompt**  
-  A collection of GPT system prompts and various prompt injection/leaking knowledge.
-  [GitHub - Chatgpt_System_Prompt](https://github.com/LouisShark/chatgpt_system_prompt)  
+- A collection of GPT system prompts and various prompt injection/leaking knowledge.
+- [GitHub - Chatgpt_System_Prompt](https://github.com/LouisShark/chatgpt_system_prompt)  
 
 
 
