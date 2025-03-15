@@ -4,7 +4,7 @@ A Practical Study Plan to become a successful MLSecOps engineer!
 
 It will cover but not limited to:
 
-##**__Have done:__**
+## **__Have done:__**
 
 ### ---**Basic Skills**---
 1. [Common Skills before Studying MLSecOps](common-skills-before-studying-mlsecops.md)
