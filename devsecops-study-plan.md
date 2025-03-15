@@ -1,6 +1,6 @@
-# DevSecOps Study Plan (Optional)
+# DevSecOps Study Plan (Advanced)
 
-To futher study MLSecOps, it is essential to understand DevSecOps!
+To futher understand MLSecOps, it is essential to understand DevSecOps!
 
 There are some DevSecOps resources for you to breifly understand DevSecOps:
 
