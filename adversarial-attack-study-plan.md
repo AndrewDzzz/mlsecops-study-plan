@@ -1,8 +1,8 @@
 # Adversarial Attack Study Plan
 
--[ ] Core Concepts (1-2 Weeks)
--[ ] Classical Adversarial Attack Methods (2-3 Weeks)
--[ ] Adversarial Defense Techniques (2-3 Weeks)
+1. -[ ] Core Concepts (1-2 Weeks)
+2. -[ ] Classical Adversarial Attack Methods (2-3 Weeks)
+3. -[ ] Adversarial Defense Techniques (2-3 Weeks)
 
 ## Core Concepts
 - **Definitions:** 
