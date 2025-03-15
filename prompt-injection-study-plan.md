@@ -33,39 +33,19 @@
 ## Study Resources for Prompt Injection
 
 ### Key Papers
-- **Prompt Injection Attacks Against Large Language Models**  
-  *(Recent research on prompt injection vulnerabilities. See search results for up-to-date papers.)*  
-  [arXiv Search Results](https://arxiv.org/search/?query=prompt+injection+attack&searchtype=all)
-- **Adversarial Attacks on Natural Language Prompts**  
-  *(Explore current studies on adversarial methods targeting prompt inputs.)*  
-  [arXiv Search Results](https://arxiv.org/search/?query=adversarial+prompt+attack&searchtype=all)
-
-### Blog & Slides
-- **Understanding Prompt Injection Attacks**  
-  An in-depth article that explains prompt injection techniques and their implications.  
-  [Towards Data Science – Prompt Injection](https://towardsdatascience.com/search?q=prompt+injection)  
-  *(Browse the results for a relevant and recent post.)*
-- **Prompt Injection Techniques & Defenses (Slide Deck)**  
-  A slide deck presentation from an AI security workshop on prompt injection.  
-  [SlideShare – Prompt Injection](https://www.slideshare.net/search/slideshow?searchfrom=header&q=prompt+injection)
+- **Automatic and Universal Prompt Injection Attacks against Large Language Models**  
+  [arXiv Search Results](https://arxiv.org/abs/2403.04957)
+- **LinkPrompt: Natural and Universal Adversarial Attacks on Prompt-based Language Models**  
+  [arXiv Search Results](https://arxiv.org/abs/2403.16432)
 
 ### ToolBox
-- **ChatGPT Jailbreaks Repository**  
-  A GitHub repository showcasing various prompt injection and jailbreak examples for ChatGPT.  
-  [GitHub - ChatGPT Jailbreaks](https://github.com/dair-ai/ChatGPT-jailbreaks)
-- **Prompt Injection Sandbox**  
-  A sandbox environment for experimenting with prompt injection scenarios.  
-  [GitHub - Prompt Injection Sandbox](https://github.com/dongfang-steven/prompt-injection)  
-  *(Please verify repository details for the latest updates.)*
-- **LLM Security Toolkit**  
-  A collection of tools aimed at evaluating and mitigating vulnerabilities in prompt design.  
-  [GitHub - Awesome AI Security](https://github.com/AI-secure/awesome-ai-security)  
-  *(This repository aggregates various AI security resources.)*
+- **Chatgpt_System_Prompt**  
+  A collection of GPT system prompts and various prompt injection/leaking knowledge.
+  [GitHub - Chatgpt_System_Prompt](https://github.com/LouisShark/chatgpt_system_prompt)  
+
+
 
 ### Awesome Repos
-- **Awesome Prompt Engineering**  
-  A curated list of resources on prompt design and secure practices.  
-  [GitHub - Awesome Prompt Engineering](https://github.com/promptslab/awesome-prompt-engineering)
-- **Awesome AI Security**  
-  A comprehensive repository covering multiple facets of AI security, including prompt injection.  
-  [GitHub - Awesome AI Security](https://github.com/AI-secure/awesome-ai-security)
+- **Awesome LLM Injection**  
+  ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+  [GitHub - Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
