@@ -33,6 +33,12 @@ Before studying the ML, there are some preequisites you need to study first.
         - [ ] [Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
     - [ ] [Pandas Tutorial - Playlist on Youtube (Corey Schafer)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
+### Important things to do after studying
+
+1. use python code to describe linear algebra and multivariate calculus
+2.  write a simple python program
+3. analyze a simple csv file using Pandas
+
 ## Basics ML Learning
 
 - [ ] [Coursera Free Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
@@ -43,6 +49,11 @@ Before studying the ML, there are some preequisites you need to study first.
     - [ ] [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=1J69S9GKU93E4&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1584648367&sprefix=hands+o%2Caps%2C256&sr=8-1)
     - [ ] [Python Machine Learning - Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_1?crid=L7PEHL95RXH4&keywords=python+machine+learning&qid=1584648438&sprefix=python+ma%2Caps%2C230&sr=8-1)
     - [ ] [Introduction to Machine Learning with Python - Andreas Müller](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=WAQPG9CEM3W&keywords=introduction+to+machine+learning+with+python&qid=1584648523&sprefix=introduc%2Caps%2C238&sr=8-1)
+
+### Important things to do after studying
+
+1. use python library(Scikit-Learn, Keras, and TensorFlow)
+2. find the disadvantages of these basic machine learning
 
 ## Deep Learning
 - [ ] [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -57,10 +68,47 @@ Optional:
 - [ ] [Stanford Lecture - Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [ ] [Stanford Lecture- Reinforcement Learning](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+### Important things to do after studying
+
+1. custom your own dataset
+2. establish deep learning environment
+3. train a deep learning model
+
+## LLM
+
+- [ ] [LLM Basic Information & LLM Prompt Engineering](https://learnprompting.org/docs/basics/introduction)
+- [ ] [LLM Applications](https://learnprompting.org/docs/basic_applications/introduction)
+- [ ] [Finetune LLM](https://arxiv.org/html/2408.13296v1)
+    - [ ] - [ ] [Practice for Finetune](https://github.com/ashishpatel26/LLM-Finetuning)
+- [ ] [Quantization](https://huggingface.co/docs/optimum/en/concept_guides/quantization)
+    - [ ] [Practice for Quantization](https://github.com/mlabonne/llm-course?tab=readme-ov-file#quantization)
+
+### Important things to do after studying
+
+1. train a llm model 
+2. use prompt ask llm to deal with simple work
+3. quantize a llm model
+4. establish a llm app (advanced)
+
+
 ## Competition & ML Supply Chain
 - [ ] [Kaggle](https://www.kaggle.com/)
     - [ ] Datasets (develop own projects)
     - [ ] Competitions (start with Getting started section)
 - [ ] [8 Fun Machine Learning Projects For Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 - [ ] [Post Your Model in Hugging Face](https://huggingface.co/docs/hub/repositories-getting-started)
+
+### Important things to do after studying
+
+1. attend a kaggle competition
+2. post a model in hugging face
+
+Additionally, you need some [basic security knowledge](https://github.com/jassics/cybersecurity-roadmap/blob/master/security-concepts.md)!
+
+## Some Awesome Repos for you to study this part:
+
+- [ ] [ml-study-plan][(https://github.com/patrickloeber/ml-study-plan)
+- [ ] [ml-study-plan][(https://github.com/mlabonne/llm-course)
+
+
 
