@@ -107,9 +107,9 @@ Additionally, you need some [basic security knowledge](https://github.com/jassic
 
 ## Some Awesome Repos for you to study this part:
 
-- [ ] [ml-study-plan][(https://github.com/patrickloeber/ml-study-plan)
-- [ ] [llm-course][(https://github.com/mlabonne/llm-course)
-- [ ] [security-study-plan][(https://github.com/jassics/security-study-plan)
+- [ ] [ml-study-plan](https://github.com/patrickloeber/ml-study-plan)
+- [ ] [llm-course](https://github.com/mlabonne/llm-course)
+- [ ] [security-study-plan](https://github.com/jassics/security-study-plan)
 
 
 
