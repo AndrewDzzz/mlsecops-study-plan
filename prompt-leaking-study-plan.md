@@ -51,7 +51,7 @@
 ### Tools
 - **leaked prompts of GPTs**
   leaked prompts of GPTs.
-  [GPTs]https://github.com/linexjlin/GPTs
+  [GPTs](https://github.com/linexjlin/GPTs)
 
 ### Awesome Repos
 - **Awesome AI Security**  
