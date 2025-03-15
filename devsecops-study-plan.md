@@ -5,10 +5,10 @@ To futher study MLSecOps, it is essential to understand DevSecOps!
 There are some DevSecOps resources for you to breifly understand DevSecOps:
 
 - [ ] **Awesome DevSecOps Study Repos** 
-  - [ ] *https://github.com/sottlmarek/DevSecOps/
-  - [ ] *https://github.com/devsecops/awesome-devsecops
-  - [ ] *https://github.com/hahwul/DevSecOps
-  - [ ] *https://github.com/devsecops/awesome-devsecops
+  - [ ] * https://github.com/sottlmarek/DevSecOps/
+  - [ ] * https://github.com/devsecops/awesome-devsecops
+  - [ ] * https://github.com/hahwul/DevSecOps
+  - [ ] * https://github.com/devsecops/awesome-devsecops
 - [ ] **Study Plan** (use above resources to understand finish this plan) 
   - [ ] Fundamentals (4–6 weeks)
     - [ ] Understand DevOps basics and how security is integrated.
