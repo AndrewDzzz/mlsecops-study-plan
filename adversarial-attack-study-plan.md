@@ -1,7 +1,11 @@
 # Adversarial Attack Study Plan
 
-## 1. Core Concepts (1-2 Weeks)
-- **Definitions:**
+-[ ] Core Concepts (1-2 Weeks)
+-[ ] Classical Adversarial Attack Methods (2-3 Weeks)
+-[ ] Adversarial Defense Techniques (2-3 Weeks)
+
+## Core Concepts
+- **Definitions:** 
   - Adversarial Examples
   - Adversarial Perturbations
   - Robustness
@@ -12,10 +16,8 @@
   - White-box Attacks
   - Black-box Attacks
   - Physical Attacks
-- **Key Reading:**
-  - *Explaining and Harnessing Adversarial Examples* (Goodfellow et al., 2014)
 
-## 2. Classical Adversarial Attack Methods (2-3 Weeks)
+## Classical Adversarial Attack Methods
 ### White-box Attacks
 - FGSM (Fast Gradient Sign Method)
 - PGD (Projected Gradient Descent)
@@ -35,7 +37,7 @@
 - Implement FGSM/PGD using PyTorch or TensorFlow.
 - Utilize libraries such as Foolbox and ART (Adversarial Robustness Toolbox).
 
-## 3. Adversarial Defense Techniques (2-3 Weeks)
+## Adversarial Defense Techniques
 ### Robust Training Methods
 - Adversarial Training
 - TRADES (TRadeoff-inspired Adversarial DEfense via Surrogate-loss minimization)
