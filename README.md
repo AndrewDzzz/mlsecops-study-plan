@@ -42,3 +42,6 @@
 
 ### **AI Governance Security**
 9. [Governance Study Plan](governance-study-plan.md)
+
+## Let's contribute and grow this repo together
+**Want to contribute? Please [fork the repo](https://github.com/AndrewDzzz/mlsecops-study-plan/fork) and [send PR for review](https://github.com/AndrewDzzz/mlsecops-study-plan/pulls)**
