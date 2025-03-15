@@ -35,7 +35,7 @@ A Practical Study Plan to become a successful MLSecOps engineer!
 15. [Property Inference Attack Study Plan](property-inference-attack-study-plan.md)
 16. [Unlearning Study Plan](unlearning-study-plan.md)
 
-### **Advanced**
+### **Advanced(Study at anytime)**
 17. [DevSecOps Study Plan](devsecops-study-plan.md)
 
 ## **__Coming Soon:__**
